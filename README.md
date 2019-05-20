@@ -6,7 +6,7 @@ This repository contains the source code for paper 'Training Robust Deep Neural 
 
 Dependencies
 --
-This library uses Pytorch to accelerate graph computations performed by many machine learning models. Therefore, installing TensorFlow is a pre-requisite.<br>
+This library uses Pytorch to accelerate graph computations performed by many machine learning models.<br>
 Installing Pytorch will take care of all other dependencies like numpy and scipy.
 
 Train models
