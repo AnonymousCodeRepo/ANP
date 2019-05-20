@@ -25,7 +25,3 @@ sh db.sh
 sh eni.sh
 * Corruption Robustness Evaluation<br>
 sh cpre1.sh and sh cpre2.sh
-
-Run Adversarial Attack Methods
---
-sh attack.sh
